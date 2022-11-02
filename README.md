@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Github Pages](https://danielheppenstiel.github.io/FAQ-accordion-card-Frontend-Mentor/)
+- Live Site URL: [Github Pages](https://danielheppenstiel.github.io/Guess-My-Number/)
 
 ## My process
 
